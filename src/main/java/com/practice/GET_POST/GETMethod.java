@@ -1,4 +1,4 @@
-package com.practice;
+package com.practice.GET_POST;
 
 import java.io.BufferedReader;
 import java.io.IOException;
