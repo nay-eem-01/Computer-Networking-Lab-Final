@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53996192-3367-4d7d-8802-66b7e7643f6e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/practice/GETMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/practice/GET_POST/GETMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/practice/PostMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/practice/GET_POST/PostMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/SocketProgramming/OneWay/ClientSide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/SocketProgramming/OneWay/ServerSide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/SocketProgramming/TwoWay/ClientSide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/SocketProgramming/TwoWay/ServerSide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2qHr10RhKU1SJC6ndBkcH9AENyR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -36,8 +39,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ClientSide.executor": "Run",
     "Application.GETMethod.executor": "Run",
     "Application.PostMethod.executor": "Run",
+    "Application.ServerSide.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -53,6 +58,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.practice.SocketProgramming.TwoWay" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,7 +71,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734330128806</updated>
-      <workItem from="1734330129910" duration="4536000" />
+      <workItem from="1734330129910" duration="6458000" />
+      <workItem from="1734431196159" duration="4373000" />
     </task>
     <servers />
   </component>
